@@ -1,6 +1,6 @@
 # word_embeddings
 
-This repository contains code and data associated with [Word Embeddings to Evaluate Bias in News Sources]()
+This repository contains code and data associated with [Word Embeddings to Evaluate Bias in News Sources](https://medium.com/@abbynewcomb13/944c159c4362)
 
 Developers: Abby Newcomb, Elise Schatzki-McClain, Sean Souksavath
 
